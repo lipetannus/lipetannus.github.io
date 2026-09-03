@@ -2,7 +2,7 @@
 
 Bem-vindo ao repositório do meu blog para a disciplina de **Computação Visual** (2026.2). 
 
-🔗 **Acesse o blog aqui:** [https://luizfilipe.github.io](https://luizfilipe.github.io)
+🔗 **Acesse o blog aqui:** [https://lipetannus.github.io](https://lipetannus.github.io)
 
 ## Sobre
 * **Aluno:** Luiz Filipe de Almeida Tannus
